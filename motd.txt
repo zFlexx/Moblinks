@@ -1,2 +1,1 @@
-- Thank you for beta testing Monke Life
-- Please report any bugs found
+- Thank you for beta testing!
