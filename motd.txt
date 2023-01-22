@@ -1,5 +1,2 @@
-- Public Release V2
-- New trees
-- New QA Tester Cosmetic
-- More colors to try out
-- Other bug fixes
+- Public Release V3
+- new horror area, doesnt work yet
