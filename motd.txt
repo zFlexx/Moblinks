@@ -1,2 +1,3 @@
-- Public Release V3
-- new horror area, doesnt work yet
+- Public Release V4
+- name saving added
+- other misc stuff
