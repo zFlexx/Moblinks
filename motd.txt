@@ -1,3 +1,4 @@
-- Public Release V4
-- name saving added
-- other misc stuff
+- Public Release V5
+- new mod cosmetic
+- bigger kick hammer
+- other tiny bug fixes i dont feel like listing
